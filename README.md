@@ -4,3 +4,4 @@
 卒論テーマ：OpenStreetMapにおける効率的な建物外形の追加手法の検討  
 〜PWAを用いたクロスプラットフォーム編集ツールの開発〜  
 今回作成したPWAの名前をBCr.mapとする。
+# [卒論内容](https://github.com/furuhashilab/BCr.map/wiki)
