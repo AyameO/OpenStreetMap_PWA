@@ -1,3 +1,4 @@
-# BCr.map
-## [プロトタイプPWA](https://furuhashilab.github.io/BCr.map/)
-## [論文および作品の説明](https://github.com/furuhashilab/BCr.map/wiki)
+# OpenStreetMap_PWA
+卒業論文の研究に伴い開発したPWA
+
+# [卒論内容](https://github.com/furuhashilab/BCr.map/wiki)
