@@ -4,6 +4,6 @@
 〜PWAを用いたクロスプラットフォーム編集ツールの開発〜  
 
 # <a href="https://ayameo.github.io/OpenStreetMap_PWA/" target="_blank" rel="noopener noreferrer">BCr.mapアプリ</a>
-![リンクのタイトル](https://hogehoge)
+![BCr.mapアプリ](https://ayameo.github.io/OpenStreetMap_PWA/)
 
 # [卒論内容](https://github.com/furuhashilab/BCr.map/wiki)
